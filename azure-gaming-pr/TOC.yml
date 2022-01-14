@@ -79,3 +79,13 @@
       href: reference-architectures/unreal-pixel-streaming-deploying.md
     - name: Unreal Pixel Streaming at Scale in Azure
       href: reference-architectures/unreal-pixel-streaming-at-scale.md
+  - name: Azure Game Developer Virtual Machine
+    items:
+    - name: Overview
+      items:
+      - name: What is Service Bus Messaging?
+      href: kits/overview.md
+    - name: Quickstarts
+      items:
+      - name: Create a Game Developer Virtual Machine with Unreal Engine
+      href: kits/create-game-developer-vm-for-unreal.md

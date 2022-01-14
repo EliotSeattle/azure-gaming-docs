@@ -4,7 +4,7 @@ description: Get up and running with a Windows 10 or Server 2019 Game Developer 
 author: dciborow
 keywords: 
 ms.topic: quickstart
-ms.date: 3/14/2019
+ms.date: 02/01/2022
 ms.author: dciborow
 ms.prod: azure-gaming
 ---
